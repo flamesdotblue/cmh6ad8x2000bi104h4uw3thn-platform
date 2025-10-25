@@ -16,7 +16,7 @@ function App() {
       <footer className="border-t border-white/10 bg-neutral-950/80 backdrop-blur supports-[backdrop-filter]:bg-neutral-950/60">
         <div className="mx-auto max-w-7xl px-6 py-10">
           <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-            <p className="text-sm text-neutral-400">© {new Date().getFullYear()} ColaCo Beverages. All rights reserved.</p>
+            <p className="text-sm text-neutral-400">© {new Date().getFullYear()} DropletX Private Limited. All rights reserved.</p>
             <div className="flex items-center gap-6 text-sm text-neutral-400">
               <a href="#brands" className="hover:text-white transition-colors">Brands</a>
               <a href="#insights" className="hover:text-white transition-colors">Insights</a>

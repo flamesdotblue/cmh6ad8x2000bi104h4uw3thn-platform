@@ -1,10 +1,10 @@
 import React from 'react';
 
 const BRANDS = [
-  { name: 'ColaCo Classic', flavor: 'Original Cola', color: 'from-red-600 to-red-400' },
-  { name: 'Citrus Burst', flavor: 'Lemon-Lime', color: 'from-lime-500 to-emerald-400' },
+  { name: 'DropletX Classic', flavor: 'Original Cola', color: 'from-sky-500 to-blue-400' },
+  { name: 'Aqua Citrus', flavor: 'Lemon-Lime', color: 'from-emerald-500 to-teal-400' },
   { name: 'Berry Fizz', flavor: 'Mixed Berry', color: 'from-fuchsia-500 to-pink-400' },
-  { name: 'Dark Roast Cola', flavor: 'Cola + Coffee', color: 'from-amber-600 to-orange-500' },
+  { name: 'Cold Brew Cola', flavor: 'Cola + Coffee', color: 'from-amber-600 to-orange-500' },
   { name: 'Zero Sugar', flavor: 'Guilt-free Cola', color: 'from-slate-600 to-zinc-500' },
   { name: 'Ginger Spark', flavor: 'Ginger Ale', color: 'from-amber-500 to-yellow-400' },
 ];

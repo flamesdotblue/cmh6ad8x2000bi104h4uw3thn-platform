@@ -7,12 +7,12 @@ const Navbar = () => {
       <div className="mx-auto max-w-7xl px-6">
         <div className="mt-4 flex items-center justify-between rounded-2xl border border-white/10 bg-neutral-950/80 px-4 py-3 backdrop-blur supports-[backdrop-filter]:bg-neutral-950/60">
           <a href="#home" className="flex items-center gap-2">
-            <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-red-600/90 shadow shadow-red-600/40">
+            <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-sky-500/90 shadow shadow-sky-500/40">
               <Sparkles className="h-5 w-5" />
             </span>
             <div className="leading-tight">
-              <div className="font-semibold tracking-tight">ColaCo</div>
-              <div className="text-[11px] text-neutral-400">Beverages</div>
+              <div className="font-semibold tracking-tight">DropletX</div>
+              <div className="text-[11px] text-neutral-400">Private Limited</div>
             </div>
           </a>
           <nav className="hidden items-center gap-8 md:flex">

@@ -16,13 +16,13 @@ const Hero = () => {
             New • Animated 3D can experience
           </span>
           <h1 className="mt-4 text-4xl font-extrabold tracking-tight sm:text-6xl">
-            Refreshing beverages for every moment
+            Refreshment engineered by DropletX
           </h1>
           <p className="mt-4 text-base text-neutral-200 sm:text-lg">
-            From classic colas to bold new blends, ColaCo crafts drinks that bring people together. Discover our brands, read our stories, and explore how we do business.
+            From sparkling classics to bold new blends, DropletX Private Limited crafts beverages that elevate every moment. Explore our brands, read our stories, and see how we do business.
           </p>
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-            <a href="#brands" className="pointer-events-auto rounded-lg bg-red-600 px-5 py-3 text-center text-sm font-semibold text-white shadow shadow-red-600/40 transition hover:bg-red-500">
+            <a href="#brands" className="pointer-events-auto rounded-lg bg-sky-500 px-5 py-3 text-center text-sm font-semibold text-white shadow shadow-sky-500/40 transition hover:bg-sky-400">
               Explore brands
             </a>
             <a href="#insights" className="pointer-events-auto rounded-lg border border-white/15 bg-white/5 px-5 py-3 text-center text-sm font-semibold text-white transition hover:bg-white/10">

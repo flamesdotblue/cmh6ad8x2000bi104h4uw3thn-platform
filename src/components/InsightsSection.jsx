@@ -27,7 +27,7 @@ const stats = [
 ];
 
 const BlogCard = ({ title, excerpt, date }) => (
-  <article className="group rounded-2xl border border-white/10 bg-neutral-900 p-5 transition-colors hover:bg-neutral-850/50">
+  <article className="group rounded-2xl border border-white/10 bg-neutral-900 p-5 transition-colors hover:bg-neutral-800/50">
     <div className="text-xs text-neutral-400">{date}</div>
     <h3 className="mt-2 text-lg font-semibold tracking-tight group-hover:underline">{title}</h3>
     <p className="mt-2 text-sm text-neutral-300">{excerpt}</p>
@@ -72,7 +72,7 @@ const InsightsSection = () => {
             </div>
 
             <div id="contact" className="mt-8 rounded-2xl border border-white/10 bg-gradient-to-tr from-white/5 to-white/[0.03] p-6">
-              <h3 className="text-lg font-semibold tracking-tight">Partner with ColaCo</h3>
+              <h3 className="text-lg font-semibold tracking-tight">Partner with DropletX</h3>
               <p className="mt-2 text-sm text-neutral-300">Distributors, retailers, and collaborators—let’s do something refreshing together.</p>
               <form className="mt-4 grid gap-3 sm:grid-cols-2">
                 <input className="w-full rounded-lg border border-white/10 bg-neutral-950 px-3 py-2 text-sm outline-none ring-0 placeholder:text-neutral-500 focus:border-white/20" placeholder="Your name" />
